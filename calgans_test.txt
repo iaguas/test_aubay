@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Bonjour
-=======
 modif depuis chris_branch
->>>>>>> chris_branch
+Bonjour j'ai encore changé

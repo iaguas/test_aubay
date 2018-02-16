@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Test ! Test qui doit planter
-=======
 Test ! Test qui doit planter deuxième test
-
-modif depuis chris_branch
->>>>>>> chris_branch
+Test: modif depuis chris_branch
+Test ! Je change mon fichier
